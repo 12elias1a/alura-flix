@@ -34,32 +34,17 @@ p {
     font-size: 20px;
 }
 
-img {
-  height: 200px;
-}
-
 .categoria-videos {
-  display: flex;
-  overflow-x: auto;
-  gap: 10px;
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
 }
-
-section {
-  background: rgb(0, 0, 0);
-  padding-bottom: 80px;
-  padding-top: 80px;
-  display: flex;
-  justify-content: center
-}
-
-/* código omitido */
 
 .categoria {
-  padding-left: 20px;
-  padding-right: 20px;
-   margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
 }
-
 
 .categoria-videos img {
     opacity: 0.5;
